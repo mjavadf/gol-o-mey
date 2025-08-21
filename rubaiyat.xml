@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Rubáiyát (selection)</title>
+        <author>Omar Khayyam</author>
+        <editor>Edward FitzGerald</editor>
+        <respStmt>
+          <resp>Digital edition and encoding</resp>
+          <name>Mohammad Javad Farokhi Darani</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Project Gutenberg</publisher>
+        <availability status="free">
+          <licence>Public Domain</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1. Project Gutenberg, 2000.</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="rubaiyat" n="1">
+        <lg type="rubai">
+          <l>Wake! For the Sun, who scatter'd into flight</l>
+          <l>The Stars before him from the Field of Night,</l>
+          <l>Drives Night along with them from Heav'n, and strikes</l>
+          <l>The Sultan's Turret with a Shaft of Light.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="2">
+        <lg type="rubai">
+          <l>Before the phantom of False morning died,</l>
+          <l>Methought a Voice within the Tavern cried,</l>
+          <l>"When all the Temple is prepared within,</l>
+          <l>Why nods the drowsy Worshipper outside?"</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
