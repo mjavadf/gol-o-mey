@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1</title>
+        <title>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The
+          Gulistan, Volume 1</title>
         <author>Firdawsi</author>
         <author>active 14th century Hafiz</author>
         <author>Omar Khayyam</author>
@@ -23,11 +24,13 @@
         <availability status="free">
           <licence>Public Domain</licence>
         </availability>
-        <credit>E-text prepared by Juliet Sutherland, Karen Lofstrom, Tom Allen, and the Project Gutenberg Online Distributed Proofreading Team</credit>
+        <credit>E-text prepared by Juliet Sutherland, Karen Lofstrom, Tom Allen, and the Project
+          Gutenberg Online Distributed Proofreading Team</credit>
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          *** START OF THE PROJECT GUTENBERG EBOOK THE PERSIAN LITERATURE, COMPRISING THE SHAH NAMEH, THE RUBAIYAT, THE DIVAN, AND THE GULISTAN, VOLUME 1 ***
+          *** START OF THE PROJECT GUTENBERG EBOOK THE PERSIAN LITERATURE, COMPRISING THE SHAH
+          NAMEH, THE RUBAIYAT, THE DIVAN, AND THE GULISTAN, VOLUME 1 ***
           PERSIAN LITERATURE
           comprising
           THE SHÁH NÁMEH, THE RUBÁIYÁT THE DIVAN, AND THE GULISTAN
@@ -42,18 +45,514 @@
     <body>
       <div type="rubaiyat" n="1">
         <lg type="rubai">
-          <l>Wake! For the Sun, who scatter'd into flight</l>
+          <l>Wake! For the Sun, who scatter&#x27;d into flight</l>
           <l>The Stars before him from the Field of Night,</l>
-          <l>Drives Night along with them from Heav'n, and strikes</l>
-          <l>The Sultan's Turret with a Shaft of Light.</l>
+          <l>Drives Night along with them from Heav&#x27;n, and strikes</l>
+          <l>The Sultan&#x27;s Turret with a Shaft of Light.</l>
         </lg>
       </div>
       <div type="rubaiyat" n="2">
         <lg type="rubai">
           <l>Before the phantom of False morning died,</l>
           <l>Methought a Voice within the Tavern cried,</l>
-          <l>"When all the Temple is prepared within,</l>
-          <l>Why nods the drowsy Worshipper outside?"</l>
+          <l>&quot;When all the Temple is prepared within,</l>
+          <l>Why nods the drowsy Worshipper outside?&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="3">
+        <lg type="rubai">
+          <l>And, as the Cock crew, those who stood before</l>
+          <l>The Tavern shouted—&quot;Open then the Door!</l>
+          <l>You know how little while we have to stay,</l>
+          <l>And, once departed, may return no more.&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="4">
+        <lg type="rubai">
+          <l>Now the New Year reviving old Desires,</l>
+          <l>The thoughtful Soul to Solitude retires,</l>
+          <l>Where the White Hand of Moses on the Bough</l>
+          <l>Puts out, and Jesus from the Ground suspires.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="5">
+        <lg type="rubai">
+          <l>Iram indeed is gone with all his Rose,</l>
+          <l>And Jemshíd&#x27;s Sev&#x27;n-ring&#x27;d Cup where no one knows;</l>
+          <l>But still a Ruby kindles in the Vine,</l>
+          <l>And many a Garden by the Water blows.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="6">
+        <lg type="rubai">
+          <l>And David&#x27;s lips are lockt; but in divine</l>
+          <l>High-piping Pehleví, with &quot;Wine! Wine! Wine!</l>
+          <l>Red Wine!&quot;—the Nightingale cries to the Rose</l>
+          <l>That sallow cheek of hers to incarnadine.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="7">
+        <lg type="rubai">
+          <l>Come, fill the Cup, and in the fire of Spring</l>
+          <l>Your Winter-garment of Repentance fling:</l>
+          <l>The Bird of Time has but a little way</l>
+          <l>To flutter—and the Bird is on the Wing.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="8">
+        <lg type="rubai">
+          <l>Whether at Níshapúr or Babylon,</l>
+          <l>Whether the Cup with sweet or bitter run,</l>
+          <l>The Wine of Life keeps oozing drop by drop,</l>
+          <l>The Leaves of Life keep falling one by one.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="9">
+        <lg type="rubai">
+          <l>Each Morn a thousand Roses brings, you say;</l>
+          <l>Yes, but where leaves the Rose of Yesterday?</l>
+          <l>And this first Summer month that brings the Rose</l>
+          <l>Shall take Jemshíd and Kai-kobád away.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="10">
+        <lg type="rubai">
+          <l>Well, let it take them! What have we to do</l>
+          <l>With Kai-kobád the Great, or Kai-khosráu?</l>
+          <l>Let Zál and Rustem bluster as they will,</l>
+          <l>Or Hátím call to Supper—heed not you.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="11">
+        <lg type="rubai">
+          <l>With me along the strip of Herbage strewn</l>
+          <l>That just divides the desert from the sown,</l>
+          <l>Where name of Slave and Sultan is forgot—</l>
+          <l>And Peace to Mahmud on his golden Throne!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="12">
+        <lg type="rubai">
+          <l>A Book of Verses underneath the Bough,</l>
+          <l>A Jug of Wine, a Loaf of Bread—and Thou</l>
+          <l>Beside me singing in the Wilderness—</l>
+          <l>Oh, Wilderness were Paradise enow!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="13">
+        <lg type="rubai">
+          <l>Some for the Glories of This World; and some</l>
+          <l>Sigh for the Prophet&#x27;s Paradise to come;</l>
+          <l>Ah, take the Cash, and let the Credit go,</l>
+          <l>Nor heed the rumble of a distant Drum!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="14">
+        <lg type="rubai">
+          <l>Look to the blowing Rose about us—&quot;Lo,</l>
+          <l>Laughing,&quot; she says, &quot;into the world I blow,</l>
+          <l>At once the silken tassel of my Purse</l>
+          <l>Tear, and its Treasure on the Garden throw.&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="15">
+        <lg type="rubai">
+          <l>And those who husbanded the Golden grain,</l>
+          <l>And those who flung it to the winds like Rain,</l>
+          <l>Alike to no such aureate Earth are turn&#x27;d</l>
+          <l>As, buried once, Men want dug up again.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="16">
+        <lg type="rubai">
+          <l>The Worldly Hope men set their Hearts upon</l>
+          <l>Turns Ashes—or it prospers; and anon,</l>
+          <l>Like Snow upon the Desert&#x27;s dusty Face,</l>
+          <l>Lighting a little hour or two—is gone.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="17">
+        <lg type="rubai">
+          <l>Think, in this batter&#x27;d Caravanserai</l>
+          <l>Whose Portals are alternate Night and Day,</l>
+          <l>How Sultan after Sultan with his Pomp</l>
+          <l>Abode his destined Hour, and went his way.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="18">
+        <lg type="rubai">
+          <l>They say the Lion and the Lizard keep</l>
+          <l>The Courts where Jemshíd gloried and drank deep:</l>
+          <l>And Báhrám, that great Hunter—the Wild Ass</l>
+          <l>Stamps o&#x27;er his Head, but cannot break his Sleep.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="19">
+        <lg type="rubai">
+          <l>I sometimes think that never blows so red</l>
+          <l>The Rose as where some buried Caesar bled;</l>
+          <l>That every Hyacinth the Garden wears</l>
+          <l>Dropt in her Lap from some once lovely Head.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="20">
+        <lg type="rubai">
+          <l>And this reviving Herb whose tender Green</l>
+          <l>Fledges the River-Lip on which we lean—</l>
+          <l>Ah, lean upon it lightly! for who knows</l>
+          <l>From what once lovely Lip it springs unseen!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="21">
+        <lg type="rubai">
+          <l>Ah, my Belovéd, fill the Cup that clears</l>
+          <l>To-day of past Regrets and future Fears:</l>
+          <l>To-morrow!—Why, To-morrow I may be</l>
+          <l>Myself with Yesterday&#x27;s Sev&#x27;n thousand Years.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="22">
+        <lg type="rubai">
+          <l>For some we loved, the loveliest and the best</l>
+          <l>That from his Vintage rolling Time hath prest,</l>
+          <l>Have drunk their Cup a Round or two before,</l>
+          <l>And one by one crept silently to rest.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="23">
+        <lg type="rubai">
+          <l>And we, that now make merry in the Room</l>
+          <l>They left, and Summer dresses in new bloom,</l>
+          <l>Ourselves must we beneath the Couch of Earth</l>
+          <l>Descend—ourselves to make a Couch—for whom?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="24">
+        <lg type="rubai">
+          <l>Ah, make the most of what we yet may spend,</l>
+          <l>Before we too into the Dust descend;</l>
+          <l>Dust into Dust, and under Dust to lie,</l>
+          <l>Sans Wine, sans Song, sans Singer, and—sans End!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="25">
+        <lg type="rubai">
+          <l>Alike for those who for TO-DAY prepare,</l>
+          <l>And those that after some TO-MORROW stare,</l>
+          <l>A Muezzín from the Tower of Darkness cries,</l>
+          <l>&quot;Fools! your Reward is neither Here nor There.&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="26">
+        <lg type="rubai">
+          <l>Why, all the Saints and Sages who discuss&#x27;d</l>
+          <l>Of the Two Worlds so wisely—they are thrust</l>
+          <l>Like foolish Prophets forth; their Words to Scorn</l>
+          <l>Are scattered, and their Mouths are stopt with Dust.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="27">
+        <lg type="rubai">
+          <l>Myself when young did eagerly frequent</l>
+          <l>Doctor and Saint, and heard great argument</l>
+          <l>About it and about: but evermore</l>
+          <l>Came out by the same door where in I went.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="28">
+        <lg type="rubai">
+          <l>With them the seed of Wisdom did I sow,</l>
+          <l>And with mine own hand wrought to make it grow;</l>
+          <l>And this was all the Harvest that I reap&#x27;d—</l>
+          <l>&quot;I came like Water, and like Wind I go.&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="29">
+        <lg type="rubai">
+          <l>Into this Universe, and Why not knowing</l>
+          <l>Nor Whence, like Water willy-nilly flowing;</l>
+          <l>And out of it, as Wind along the Waste,</l>
+          <l>I know not Whither, willy-nilly blowing.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="30">
+        <lg type="rubai">
+          <l>What, without asking, hither hurried Whence?</l>
+          <l>And, without asking, Whither hurried hence!</l>
+          <l>Oh, many a Cup of this forbidden Wine</l>
+          <l>Must drown the memory of that insolence!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="31">
+        <lg type="rubai">
+          <l>Up from Earth&#x27;s Centre through the Seventh Gate</l>
+          <l>I rose, and on the Throne of Saturn sate,</l>
+          <l>And many a Knot unravel&#x27;d by the Road;</l>
+          <l>But not the Master-knot of Human Fate.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="32">
+        <lg type="rubai">
+          <l>There was the Door to which I found no Key;</l>
+          <l>There was the Veil through which I might not see:</l>
+          <l>Some little talk awhile of ME and THEE</l>
+          <l>There was—and then no more of THEE and ME.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="33">
+        <lg type="rubai">
+          <l>Earth could not answer; nor the Seas that mourn</l>
+          <l>In flowing Purple, of their Lord forlorn;</l>
+          <l>Nor rolling Heaven, with all his Signs reveal&#x27;d</l>
+          <l>And hidden by the sleeve of Night and Morn.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="34">
+        <lg type="rubai">
+          <l>Then of the THEE IN ME who works behind</l>
+          <l>The Veil, I lifted up my hands to find</l>
+          <l>A lamp amid the Darkness; and I heard,</l>
+          <l>As from Without—&quot;THE ME WITHIN THEE BLIND!&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="35">
+        <lg type="rubai">
+          <l>Then to the Lip of this poor earthen Urn</l>
+          <l>I lean&#x27;d, the Secret of my Life to learn:</l>
+          <l>And Lip to Lip it murmur&#x27;d—&quot;While you live,</l>
+          <l>Drink!—for, once dead, you never shall return.&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="36">
+        <lg type="rubai">
+          <l>I think the Vessel, that with fugitive</l>
+          <l>Articulation answer&#x27;d, once did live,</l>
+          <l>And drink; and Ah! the passive Lip I kiss&#x27;d,</l>
+          <l>How many Kisses might it take—and give!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="37">
+        <lg type="rubai">
+          <l>For I remember stopping by the way</l>
+          <l>To watch a Potter thumping his wet Clay:</l>
+          <l>And with its all-obliterated Tongue</l>
+          <l>It murmur&#x27;d—&quot;Gently, Brother, gently, pray!&quot;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="38">
+        <lg type="rubai">
+          <l>And has not such a story from of Old</l>
+          <l>Down Man&#x27;s successive generations roll&#x27;d</l>
+          <l>Of such a clod of saturated Earth</l>
+          <l>Cast by the Maker into Human mould?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="39">
+        <lg type="rubai">
+          <l>And not a drop that from our Cups we throw</l>
+          <l>For Earth to drink of, but may steal below</l>
+          <l>To quench the fire of Anguish in some Eye</l>
+          <l>There hidden—far beneath, and long ago.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="40">
+        <lg type="rubai">
+          <l>As then the Tulip for her morning sup</l>
+          <l>Of Heav&#x27;nly Vintage from the soil looks up,</l>
+          <l>Do you devoutly do the like, till Heav&#x27;n</l>
+          <l>To Earth invert you—like an empty Cup.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="41">
+        <lg type="rubai">
+          <l>Perplext no more with Human or Divine,</l>
+          <l>To-morrow&#x27;s tangle to the winds resign,</l>
+          <l>And lose your fingers in the tresses of</l>
+          <l>The Cypress-slender Minister of Wine.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="42">
+        <lg type="rubai">
+          <l>And if the Wine you drink, the Lip you press,</l>
+          <l>End in what All begins and ends in—Yes;</l>
+          <l>Think then you are To-day what Yesterday</l>
+          <l>You were—To-morrow you shall not be less.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="43">
+        <lg type="rubai">
+          <l>So when that Angel of the darker Drink</l>
+          <l>At last shall find you by the river-brink,</l>
+          <l>And, offering his Cup, invite your Soul</l>
+          <l>Forth to your Lips to quaff—you shall not shrink.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="44">
+        <lg type="rubai">
+          <l>Why, if the Soul can fling the Dust aside,</l>
+          <l>And naked on the Air of Heaven ride,</l>
+          <l>Were&#x27;t not a Shame—were&#x27;t not a Shame for him</l>
+          <l>In this clay carcase crippled to abide?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="45">
+        <lg type="rubai">
+          <l>&#x27;Tis but a Tent where takes his one day&#x27;s rest</l>
+          <l>A Sultan to the realm of Death addrest;</l>
+          <l>The Sultan rises, and the dark Ferrash</l>
+          <l>Strikes, and prepares it for another Guest</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="46">
+        <lg type="rubai">
+          <l>And fear not lest Existence closing your</l>
+          <l>Account, and mine, should know the like no more;</l>
+          <l>The Eternal Sákí from the Bowl has pour&#x27;d</l>
+          <l>Millions of Bubbles like us, and will pour.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="47">
+        <lg type="rubai">
+          <l>When You and I behind the Veil are past,</l>
+          <l>Oh, but the long, long while the World shall last,</l>
+          <l>Which of our Coming and Departure heeds</l>
+          <l>As the Sea&#x27;s self should heed a pebble-cast.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="48">
+        <lg type="rubai">
+          <l>A Moment&#x27;s Halt—a momentary taste</l>
+          <l>Of Being from the Well amid the Waste—</l>
+          <l>And Lo!—the phantom Caravan has reach&#x27;d</l>
+          <l>The Nothing it set out from—Oh, make haste!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="49">
+        <lg type="rubai">
+          <l>Would you that spangle of Existence spend</l>
+          <l>About THE SECRET—quick about it, Friend!</l>
+          <l>A Hair perhaps divides the False and True—</l>
+          <l>And upon what, prithee, may life depend?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="50">
+        <lg type="rubai">
+          <l>A Hair perhaps divides the False and True;</l>
+          <l>Yes; and a single Alif were the clue—</l>
+          <l>Could you but find it—to the Treasure-house,</l>
+          <l>And peradventure to THE MASTER too;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="51">
+        <lg type="rubai">
+          <l>Whose secret Presence, through Creation&#x27;s veins</l>
+          <l>Running Quicksilver-like eludes your pains;</l>
+          <l>Taking all shapes from Máh to Máhí; and</l>
+          <l>They change and perish all—but He remains;</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="52">
+        <lg type="rubai">
+          <l>A moment guess&#x27;d—then back behind the Fold</l>
+          <l>Immerst of Darkness round the Drama roll&#x27;d</l>
+          <l>Which, for the Pastime of Eternity,</l>
+          <l>He doth Himself contrive, enact, behold.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="53">
+        <lg type="rubai">
+          <l>But if in vain, down on the stubborn floor</l>
+          <l>Of Earth, and up to Heav&#x27;n&#x27;s unopening Door,</l>
+          <l>You gaze To-day, while You are You—how then</l>
+          <l>To-morrow, when You shall be You no more?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="54">
+        <lg type="rubai">
+          <l>Waste not your Hour, nor in the vain pursuit</l>
+          <l>Of This and That endeavor and dispute;</l>
+          <l>Better be jocund with the fruitful Grape</l>
+          <l>Than sadden after none, or bitter, Fruit.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="55">
+        <lg type="rubai">
+          <l>You know, my Friends, with what a brave Carouse</l>
+          <l>I made a Second Marriage in my house;</l>
+          <l>Divorced old barren Reason from my Bed,</l>
+          <l>And took the Daughter of the Vine to Spouse.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="56">
+        <lg type="rubai">
+          <l>For &quot;Is&quot; and &quot;Is-not&quot; though with Rule and Line</l>
+          <l>And &quot;Up-and-down&quot; by Logic I define,</l>
+          <l>Of all that one should care to fathom, I</l>
+          <l>Was never deep in anything but—Wine.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="57">
+        <lg type="rubai">
+          <l>Ah, but my Computations, People say,</l>
+          <l>Reduced the Year to better reckoning?—Nay,</l>
+          <l>&#x27;Twas only striking from the Calendar</l>
+          <l>Unborn To-morrow, and dead Yesterday.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="58">
+        <lg type="rubai">
+          <l>And lately, by the Tavern Door agape,</l>
+          <l>Came shining through the Dusk an Angel Shape</l>
+          <l>Bearing a Vessel on his Shoulder; and</l>
+          <l>He bid me taste of it; and &#x27;twas—the Grape!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="59">
+        <lg type="rubai">
+          <l>The Grape that can with Logic absolute</l>
+          <l>The Two-and-Seventy jarring Sects confute:</l>
+          <l>The Sovereign Alchemist that in a trice</l>
+          <l>Life&#x27;s leaden metal into Gold transmute:</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="60">
+        <lg type="rubai">
+          <l>The mighty Mahmud, Allah-breathing Lord,</l>
+          <l>That all the misbelieving and black Horde</l>
+          <l>Of Fears and Sorrows that infest the Soul</l>
+          <l>Scatters before him with his whirlwind Sword.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="61">
+        <lg type="rubai">
+          <l>Why, be this Juice the growth of God, who dare</l>
+          <l>Blaspheme the twisted tendril as a Snare?</l>
+          <l>A Blessing, we should use it, should we not?</l>
+          <l>And if a Curse—why, then, Who set it there?</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="62">
+        <lg type="rubai">
+          <l>I must abjure the Balm of Life, I must,</l>
+          <l>Scared by some After-reckoning ta&#x27;en on trust,</l>
+          <l>Or lured with Hope of some Diviner Drink,</l>
+          <l>To fill the Cup—when crumbled into Dust!</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="63">
+        <lg type="rubai">
+          <l>Oh threats of Hell and Hopes of Paradise!</l>
+          <l>One thing at least is certain—This Life flies;</l>
+          <l>One thing is certain and the rest is Lies;</l>
+          <l>The Flower that once has blown forever dies.</l>
+        </lg>
+      </div>
+      <div type="rubaiyat" n="64">
+        <lg type="rubai">
+          <l>Strange, is it not? that of the myriads who</l>
+          <l>Before us pass&#x27;d the door of Darkness through,</l>
+          <l>Not one returns to tell us of the Road,</l>
+          <l>Which to discover we must travel too.</l>
         </lg>
       </div>
     </body>
