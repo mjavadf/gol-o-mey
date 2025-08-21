@@ -2,9 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Rubáiyát (selection)</title>
+        <title>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1</title>
+        <author>Firdawsi</author>
+        <author>active 14th century Hafiz</author>
         <author>Omar Khayyam</author>
-        <editor>Edward FitzGerald</editor>
+        <contributor>Richard J. H. Gottheil</contributor>
+        <translator>James Atkinson</translator>
+        <translator>Herman Bicknell</translator>
+        <translator>Edward FitzGerald</translator>
         <respStmt>
           <resp>Digital edition and encoding</resp>
           <name>Mohammad Javad Farokhi Darani</name>
@@ -12,12 +17,24 @@
       </titleStmt>
       <publicationStmt>
         <publisher>Project Gutenberg</publisher>
+        <date>Release date: November 1, 2003 [eBook #10315]</date>
+        <date>Most recently updated: October 28, 2024</date>
+        <language>English</language>
         <availability status="free">
           <licence>Public Domain</licence>
         </availability>
+        <credit>E-text prepared by Juliet Sutherland, Karen Lofstrom, Tom Allen, and the Project Gutenberg Online Distributed Proofreading Team</credit>
       </publicationStmt>
       <sourceDesc>
-        <bibl>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1. Project Gutenberg, 2000.</bibl>
+        <bibl>
+          *** START OF THE PROJECT GUTENBERG EBOOK THE PERSIAN LITERATURE, COMPRISING THE SHAH NAMEH, THE RUBAIYAT, THE DIVAN, AND THE GULISTAN, VOLUME 1 ***
+          PERSIAN LITERATURE
+          comprising
+          THE SHÁH NÁMEH, THE RUBÁIYÁT THE DIVAN, AND THE GULISTAN
+          Revised Edition, Volume 1
+          1909
+          With a special introduction by RICHARD J. H. GOTTHEIL, Ph.D.
+        </bibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
