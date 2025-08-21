@@ -2,45 +2,162 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The
-          Gulistan, Volume 1</title>
-        <author>Firdawsi</author>
-        <author>active 14th century Hafiz</author>
-        <author>Omar Khayyam</author>
-        <contributor>Richard J. H. Gottheil</contributor>
-        <translator>James Atkinson</translator>
-        <translator>Herman Bicknell</translator>
-        <translator>Edward FitzGerald</translator>
+        <title xml:lang="en">The Rubáiyát (Selected Quatrains) — Digital Edition</title>
+        <author key="omar-khayyam">Omar Khayyam</author>
+        <editor role="translator">Edward FitzGerald</editor>
         <respStmt>
-          <resp>Digital edition and encoding</resp>
+          <resp>Selection, digital transcription, and TEI encoding</resp>
           <name>Mohammad Javad Farokhi Darani</name>
         </respStmt>
       </titleStmt>
+
+      <editionStmt>
+        <edition n="1.0" xml:lang="en">First digital edition (selection)</edition>
+        <respStmt>
+          <resp>Selection criteria</resp>
+          <name>Quatrains chosen for a ~2000-word sample for TESR exam</name>
+        </respStmt>
+      </editionStmt>
+
+      <extent>
+        <measure unit="poem" quantity="64">Rubá’iyyāt (quatrains) in this selection</measure>
+        <measure unit="line" quantity="256">Total lines</measure>
+        <measure unit="word" cert="low">≈ 1960 words</measure>
+      </extent>
+
       <publicationStmt>
-        <publisher>Project Gutenberg</publisher>
-        <date>Release date: November 1, 2003 [eBook #10315]</date>
-        <date>Most recently updated: October 28, 2024</date>
-        <language>English</language>
+        <publisher>Self-published via GitHub Pages</publisher>
+        <pubPlace xml:lang="en">Bologna, Italy</pubPlace>
+        <date when="2025-08-21">21 Aug 2025</date>
         <availability status="free">
-          <licence>Public Domain</licence>
+          <licence target="https://www.gutenberg.org/policy/permission.html">Source text: Public
+            Domain (Project Gutenberg)</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Digital encoding: CC BY 4.0</licence>
         </availability>
-        <credit>E-text prepared by Juliet Sutherland, Karen Lofstrom, Tom Allen, and the Project
-          Gutenberg Online Distributed Proofreading Team</credit>
       </publicationStmt>
+
       <sourceDesc>
-        <bibl>
-          *** START OF THE PROJECT GUTENBERG EBOOK THE PERSIAN LITERATURE, COMPRISING THE SHAH
-          NAMEH, THE RUBAIYAT, THE DIVAN, AND THE GULISTAN, VOLUME 1 ***
-          PERSIAN LITERATURE
-          comprising
-          THE SHÁH NÁMEH, THE RUBÁIYÁT THE DIVAN, AND THE GULISTAN
-          Revised Edition, Volume 1
-          1909
-          With a special introduction by RICHARD J. H. GOTTHEIL, Ph.D.
-        </bibl>
+        <biblStruct>
+          <monogr>
+            <author>Omar Khayyam</author>
+            <editor role="translator">Edward FitzGerald</editor>
+            <title level="m" xml:lang="en">The Persian Literature, Comprising The Shah Nameh, The
+              Rubaiyat, The Divan, and The Gulistan, Volume 1</title>
+            <imprint>
+              <publisher>Project Gutenberg</publisher>
+              <date when="2003-11-01">Release date: 1 Nov 2003</date>
+              <date>Most recently updated: 28 Oct 2024</date>
+              <idno type="gutenberg">10315</idno>
+              <idno type="uri">https://www.gutenberg.org/ebooks/10315</idno>
+            </imprint>
+          </monogr>
+          <note xml:lang="en">This TEI file transcribes and annotates a curated selection of
+            quatrains (Rubáiyát) from the English translation by Edward FitzGerald included in the
+            above volume.</note>
+        </biblStruct>
       </sourceDesc>
     </fileDesc>
+
+    <encodingDesc>
+      <projectDesc>
+        <p>Created for the Text Encoding and Semantic Representation (TESR) exam, DHDK — University
+          of Bologna: TEI encoding → XSLT → HTML (GitHub Pages) → RDF (Python/RDFLib).</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>Selection of quatrains to reach ~2000 words; numbering preserved; no modernisation of
+          spelling beyond source.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <normalization source="Gutenberg">
+          <p>Punctuation, capitalisation, and diacritics follow the Project Gutenberg source. No
+            silent normalisation.</p>
+        </normalization>
+        <segmentation>
+          <p>Each quatrain is encoded as <gi>lg</gi> with <att>type="rubai"</att> and four <gi>l</gi>
+            children; quatrain divisions are <gi>div</gi> with @n for numbering.</p>
+        </segmentation>
+        <quotation marks="all">
+          <p>Quotation marks retained as in source; curly quotes represented with character entities
+            where needed.</p>
+        </quotation>
+        <hyphenation eol="none">
+          <p>No end‑of‑line hyphen normalisation was required.</p>
+        </hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#free">
+          <term>Persian poetry</term>
+          <term>Rubáiyát</term>
+          <term>Omar Khayyam</term>
+          <term>Digital edition</term>
+          <term>TEI</term>
+        </keywords>
+      </textClass>
+
+      <particDesc>
+        <listPerson>
+          <person xml:id="moses">
+            <persName>Moses</persName>
+          </person>
+          <person xml:id="jesus">
+            <persName>Jesus</persName>
+          </person>
+          <person xml:id="david">
+            <persName>David</persName>
+          </person>
+          <person xml:id="jemshid">
+            <persName>Jemshíd</persName>
+          </person>
+          <person xml:id="kaiKobad">
+            <persName>Kai‑kobád</persName>
+          </person>
+          <person xml:id="kaiKhosrau">
+            <persName>Kai‑khosráu</persName>
+          </person>
+          <person xml:id="zal">
+            <persName>Zál</persName>
+          </person>
+          <person xml:id="rustem">
+            <persName>Rustem</persName>
+          </person>
+          <person xml:id="hatim">
+            <persName>Hátím</persName>
+          </person>
+          <person xml:id="bahram">
+            <persName>Báhrám</persName>
+          </person>
+          <person xml:id="mahmud">
+            <persName>Mahmud</persName>
+          </person>
+          <person xml:id="caesar">
+            <persName>Caesar</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <listPlace>
+          <place xml:id="nishapur">
+            <placeName>Níshapúr</placeName>
+          </place>
+          <place xml:id="babylon">
+            <placeName>Babylon</placeName>
+          </place>
+        </listPlace>
+      </settingDesc>
+    </profileDesc>
+
+    <revisionDesc>
+      <change when="2025-08-21" who="#mjfd">Initial TEI header created; source and project metadata
+        added; local authority lists started.</change>
+    </revisionDesc>
   </teiHeader>
+
   <text>
     <body>
       <div type="rubaiyat" n="1">
