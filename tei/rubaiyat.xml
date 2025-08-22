@@ -102,50 +102,51 @@
 
       <particDesc>
         <listPerson>
-          <person xml:id="moses">
+          <person xml:id="moses" sameAs="http://www.wikidata.org/entity/Q9077">
             <persName>Moses</persName>
           </person>
-          <person xml:id="jesus">
+          <person xml:id="jesus" sameAs="http://www.wikidata.org/entity/Q302">
             <persName>Jesus</persName>
           </person>
-          <person xml:id="david">
+          <person xml:id="david" sameAs="http://www.wikidata.org/entity/Q41370">
             <persName>David</persName>
           </person>
-          <person xml:id="jemshid">
+          <person xml:id="jemshid" sameAs="http://www.wikidata.org/entity/Q155755">
             <persName>Jemshíd</persName>
           </person>
-          <person xml:id="kaiKobad">
-            <persName>Kai‑kobád</persName>
+          <person xml:id="kaiKobad" sameAs="http://www.wikidata.org/entity/Q1150270">
+            <persName>Kai-kobád</persName>
           </person>
-          <person xml:id="kaiKhosrau">
-            <persName>Kai‑khosráu</persName>
+          <person xml:id="kaiKhosrau" sameAs="http://www.wikidata.org/entity/Q163183">
+            <persName>Kai-khosráu</persName>
           </person>
-          <person xml:id="zal">
+          <person xml:id="zal" sameAs="http://www.wikidata.org/entity/Q144903">
             <persName>Zál</persName>
           </person>
-          <person xml:id="rustem">
+          <person xml:id="rustem" sameAs="http://www.wikidata.org/entity/Q60062">
             <persName>Rustem</persName>
           </person>
-          <person xml:id="hatim">
+          <person xml:id="hatim" sameAs="http://www.wikidata.org/entity/Q2746159">
             <persName>Hátím</persName>
           </person>
-          <person xml:id="bahram">
+          <person xml:id="bahram" sameAs="http://www.wikidata.org/entity/Q299271">
             <persName>Báhrám</persName>
           </person>
-          <person xml:id="mahmud">
+          <person xml:id="mahmud" sameAs="http://www.wikidata.org/entity/Q9458">
             <persName>Mahmud</persName>
           </person>
-          <person xml:id="caesar">
+          <person xml:id="caesar" sameAs="http://www.wikidata.org/entity/Q1048">
             <persName>Caesar</persName>
           </person>
         </listPerson>
+
       </particDesc>
       <settingDesc>
         <listPlace>
-          <place xml:id="nishapur">
+          <place xml:id="nishapur" sameAs="http://www.wikidata.org/entity/Q131350">
             <placeName>Níshapúr</placeName>
           </place>
-          <place xml:id="babylon">
+          <place xml:id="babylon" sameAs="http://www.wikidata.org/entity/Q5684">
             <placeName>Babylon</placeName>
           </place>
         </listPlace>
