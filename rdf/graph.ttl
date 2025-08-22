@@ -1,0 +1,108 @@
+@prefix : <https://mjavadf.github.io/gol-o-mey/rdf/graph.ttl#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://mjavadf.github.io/gol-o-mey/rdf/graph.ttl#%28Illustration_for_Rub%C3%A1iy%C3%A1t_of_Omar_Khayy%C3%A1m%29_In_the_Beginning> a schema1:CreativeWork ;
+    dcterms:provenance "Museum purchase and gift from Elizabeth W. Henderson in memory of her husband Francis Tracy Henderson" ;
+    dcterms:rights "CC0 – Smithsonian Open Access" ;
+    dcterms:title "(Illustration for Rubáiyát of Omar Khayyám) In the Beginning" ;
+    schema1:artform "Drawing" ;
+    schema1:creator :Elihu_Vedder ;
+    schema1:dateCreated "1883-1884" ;
+    schema1:image <https://ids.si.edu/ids/deliveryService?id=SAAM-1978.108.43_1> ;
+    schema1:keywords "Landscape — garden; Allegory — religion — good and evil; Religion — Old Testament — Eve; Literature — Khayyam, Omar — Rubaiyat; Religion — angel" ;
+    schema1:locationCreated "Not on view" ;
+    schema1:material "chalk, pencil and watercolor on paper" ;
+    foaf:page <http://edan.si.edu/saam/id/object/1978.108.43>,
+        <https://americanart.si.edu/artwork/illustration-rubaiyat-omar-khayyam-beginning-25637> .
+
+:rubaiyat a schema1:CreativeWork ;
+    dcterms:creator :Omar_Khayyam ;
+    dcterms:date "2025-08-21"^^xsd:date ;
+    dcterms:title "The Rubáiyát (Selected Quatrains) — Digital Edition" ;
+    schema1:keywords "Digital edition",
+        "Omar Khayyam",
+        "Persian poetry",
+        "Rubáiyát",
+        "TEI" ;
+    schema1:mentions :B%C3%A1hr%C3%A1m,
+        :Babylon,
+        :Caesar,
+        :David,
+        :H%C3%A1t%C3%ADm,
+        :Jemsh%C3%ADd,
+        :Jesus,
+        :Kai-khosr%C3%A1u,
+        :Kai-kob%C3%A1d,
+        :Mahmud,
+        :Moses,
+        :N%C3%ADshap%C3%BAr,
+        :Rustem,
+        :Z%C3%A1l .
+
+:B%C3%A1hr%C3%A1m a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q299271> ;
+    foaf:name "Báhrám" .
+
+:Babylon a schema1:Place ;
+    rdfs:label "Babylon" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5684> .
+
+:Caesar a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1048> ;
+    foaf:name "Caesar" .
+
+:David a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q41370> ;
+    foaf:name "David" .
+
+:Elihu_Vedder a foaf:Person ;
+    foaf:name "Elihu Vedder" .
+
+:H%C3%A1t%C3%ADm a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2746159> ;
+    foaf:name "Hátím" .
+
+:Jemsh%C3%ADd a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q155755> ;
+    foaf:name "Jemshíd" .
+
+:Jesus a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q302> ;
+    foaf:name "Jesus" .
+
+:Kai-khosr%C3%A1u a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q163183> ;
+    foaf:name "Kai-khosráu" .
+
+:Kai-kob%C3%A1d a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1150270> ;
+    foaf:name "Kai-kobád" .
+
+:Mahmud a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9458> ;
+    foaf:name "Mahmud" .
+
+:Moses a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9077> ;
+    foaf:name "Moses" .
+
+:N%C3%ADshap%C3%BAr a schema1:Place ;
+    rdfs:label "Níshapúr" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q131350> .
+
+:Omar_Khayyam a foaf:Person ;
+    foaf:name "Omar Khayyam" .
+
+:Rustem a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60062> ;
+    foaf:name "Rustem" .
+
+:Z%C3%A1l a foaf:Person ;
+    owl:sameAs <http://www.wikidata.org/entity/Q144903> ;
+    foaf:name "Zál" .
+
