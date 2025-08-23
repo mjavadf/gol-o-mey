@@ -3,6 +3,10 @@
 This repository is created for the **Text Encoding and Semantic Representation (TESR)** exam, part of the **Digital Humanities and Digital Knowledge (DHDK)** program at the University of Bologna.  
 It focuses on a selection from *The Rubáiyát*, included in *The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1* (Project Gutenberg).
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebfe889f-17b7-41dd-aa35-5f00a1aa413e" width="600" />
+</p>
+
 📄 View the HTML version here: [https://mjavadf.github.io/gol-o-mey/](https://mjavadf.github.io/gol-o-mey/)
 
 
@@ -87,6 +91,8 @@ gol-o-mey/
 - **Cultural Object**: The metadata describing the artwork is derived from the **Smithsonian American Art Museum** digital collections. Please refer to their site for rights and reproduction terms.
     
 - **Code & Scripts**: The code in this repository is released under the **MIT License** (see the [LICENSE](https://github.com/mjavadf/gol-o-mey/blob/main/LICENSE) file for details).
+
+- **Image**: The project banner illustration was created using **Gemini AI**.
     
 - **Credits**:
     
