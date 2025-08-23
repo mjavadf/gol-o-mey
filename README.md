@@ -5,7 +5,6 @@ It focuses on a selection from *The Rubáiyát*, included in *The Persian Litera
 
 📄 View the HTML version here: [https://mjavadf.github.io/gol-o-mey/](https://mjavadf.github.io/gol-o-mey/)
 
----
 
 ## About the Source
 The digital text for this project is taken from Book *The Persian Literature, Comprising The Shah Nameh, The Rubaiyat, The Divan, and The Gulistan, Volume 1*, which is available at **Project Gutenberg**.
