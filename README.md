@@ -78,7 +78,7 @@ This project goes through the main steps of the **TESR pipeline**, from encoding
    - This step connects the literary work with its visual reception.  
 
 5. **Semantic Representation (RDF)**  
-   - Both the TEI text and the artwork metadata were transformed into **RDF triples** using **Python rdflib**.  
+   - Both the TEI text and the artwork metadata were transformed into **RDF triples** using **Python `rdflib`**.  
    - To ensure interoperability, standard vocabularies like **Dublin Core**, **FOAF**, and **Schema.org** were reused.  
    - A single RDF graph (`graph.ttl`) was made to bring the two datasets together.  
 
@@ -97,7 +97,7 @@ This project goes through the main steps of the **TESR pipeline**, from encoding
     
 - **RDF (Resource Description Framework)**: used to represent both the encoded text and the cultural object metadata in a graph-based, machine-readable format.
     
-- **rdflib (Python library)**: employed to build and serialize RDF graphs from XML/TEI and object metadata.
+- **`rdflib` (Python library)**: employed to build and serialize RDF graphs from XML/TEI and object metadata.
     
 - **Ontologies reused**:
     
