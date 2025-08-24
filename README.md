@@ -54,31 +54,58 @@ gol-o-mey/
 ```
 
 ## Methodology
-[] [TO BE COMPLETED]
+This project goes through the main steps of the **TESR pipeline**, from encoding text to representing meaning:
+
+1. **Source Acquisition**  
+   - The base text (*The Rubáiyát*, from *The Persian Literature… Volume 1*) was obtained from **Project Gutenberg**.  
+   - A part of the text was chosen and cleaned up so that it could be encoded.  
+
+2. **Text Encoding (TEI)**  
+   - The selected quatrains were encoded in **TEI P5 XML**, designating the structural units (quatrains as `<lg>` and lines as `<l>`).  
+   - Metadata about the edition and source was included in the `<teiHeader>`.  
+
+3. **Transformation to HTML**  
+   - An **XSLT stylesheet** called `rubaiyat.xsl` was made to transform the TEI file into HTML.  
+   - This step makes it possible for the encoded text to be shown in a way that is easy to read.  
+   - The resulting page was published on **GitHub Pages** (`docs/index.html`).  
+
+4. **Metadata for Cultural Objects**  
+   - Metadata for a related artwork ([an illustration](https://americanart.si.edu/artwork/illustration-rubaiyat-omar-khayyam-beginning-25637) inspired by the *Rubáiyát* from the Smithsonian American Art Museum) was gathered and saved in both **CSV** and **JSON** formats.  
+   - This step connects the literary work with its visual reception.  
+
+5. **Semantic Representation (RDF)**  
+   - Both the TEI text and the artwork metadata were transformed into **RDF triples** using **Python rdflib**.  
+   - To ensure interoperability, standard vocabularies like **Dublin Core**, **FOAF**, and **Schema.org** were reused.  
+   - A single RDF graph (`graph.ttl`) was made to bring the two datasets together.  
+
+6. **Integration & Output**  
+   - All files were organized into a structured repository (see *Project Structure* above).  
+   - The RDF dataset, HTML page, and TEI file all provide different ways to access the data: human-readable, machine-readable, and scholarly-encoded.  
+
 
 ## Tools & Standards Used
 
-- **TEI P5 (Text Encoding Initiative)** → used to encode the selected quatrains in XML, ensuring scholarly conventions for representing literary texts.
+- **TEI P5 (Text Encoding Initiative)**: used to encode the selected quatrains in XML, ensuring scholarly conventions for representing literary texts.
     
-- **XSLT (eXtensible Stylesheet Language Transformations)** → transforms the TEI-encoded XML into HTML for web publication.
+- **XSLT (eXtensible Stylesheet Language Transformations)**: transforms the TEI-encoded XML into HTML for web publication.
     
-- **HTML + GitHub Pages** → HTML is generated and published online through GitHub Pages for easy access and dissemination.
+- **HTML + GitHub Pages**: HTML is generated and published online through GitHub Pages for easy access and dissemination.
     
-- **RDF (Resource Description Framework)** → used to represent both the encoded text and the cultural object metadata in a graph-based, machine-readable format.
+- **RDF (Resource Description Framework)**: used to represent both the encoded text and the cultural object metadata in a graph-based, machine-readable format.
     
-- **rdflib (Python library)** → employed to build and serialize RDF graphs from XML/TEI and object metadata.
+- **rdflib (Python library)**: employed to build and serialize RDF graphs from XML/TEI and object metadata.
     
 - **Ontologies reused**:
     
-    - **Dublin Core (dcterms)** → for basic bibliographic and descriptive metadata.
+    - **Dublin Core (dcterms)**: for basic bibliographic and descriptive metadata.
         
-    - **FOAF (Friend of a Friend)** → to describe persons and their relations.
+    - **FOAF (Friend of a Friend)**: to describe persons and their relations.
         
-    - **Schema.org** → for general cultural heritage object description.
+    - **Schema.org**: for general cultural heritage object description.
         
-- **Project Gutenberg** → source of the digital text, in the public domain.
+- **Project Gutenberg**: source of the digital text, in the public domain.
     
-- **Smithsonian American Art Museum** → provider of metadata for the chosen cultural object.
+- **Smithsonian American Art Museum**: provider of metadata for the chosen cultural object.
 
 ## License & Credits
 
