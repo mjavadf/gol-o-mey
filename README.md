@@ -117,7 +117,7 @@ This project goes through the main steps of the **TESR pipeline**, from encoding
     
 - **Cultural Object**: The metadata describing the artwork is derived from the **Smithsonian American Art Museum** digital collections. Please refer to their site for rights and reproduction terms.
     
-- **Code & Scripts**: The code in this repository is released under the **MIT License** (see the [LICENSE](https://github.com/mjavadf/gol-o-mey/blob/main/LICENSE) file for details).
+- **Code & Scripts**: The code in this repository is released under the **MIT License** (see the [`LICENSE`](https://github.com/mjavadf/gol-o-mey/blob/main/LICENSE) file for details).
 
 - **Image**: The project banner illustration was created using **Gemini AI**.
     
